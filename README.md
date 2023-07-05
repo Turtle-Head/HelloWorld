@@ -1,5 +1,5 @@
 # HelloWorld<br>
-# Author: James Fehr <br>
+# Author: James Fehr Date: 07-04-2003 <br>
 # hello.py takes multiple names and returns Hello @name<br>
 sytax is:<br>
 python3 hello.py name [name] <br>
